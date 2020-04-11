@@ -1,19 +1,15 @@
 # OpenTasks
 
-Words, words, words.
+A collection of openly available software platforms for creating behavioral tasks, as well as resources and available task implementations. 
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Software Platforms](#software-platforms)
-
-## Overview
-
-Words, words, words.
+- [Task Implementations](#task-implementations)
 
 ## Software Platforms
 
-Words, words, words.
+The following are open-source or free-to-use software platforms that allow for creating tasks. 
 
 ### Pychopy
 
@@ -62,3 +58,20 @@ Words, words, words.
 [HomePage](https://lab.js.org/) - 
 [Github](https://github.com/felixhenninger/lab.js) - 
 [Paper](https://doi.org/10.31234/osf.io/fqr49)
+
+## Task Implementations
+
+The following is a collection of resources with available tasks implementations. 
+
+### Pavlovia
+
+Pavlovia is a forum for researchers to share and run experiments. 
+
+[Homepage](https://pavlovia.org/) - [List of Experiments](https://pavlovia.org/explore)
+
+### Miscellaneous
+
+- A [memory span task](https://github.com/tmalsburg/py-span-task), implemented in Python
+- A [stop-signal task](https://github.com/bramzandbelt/StPy) implemented in Python
+- Some [experiments](https://bartlettje.github.io/BartlettJE.github.io/experiments/), in OpenSesame and Psychopy, by James E Bartlett
+
