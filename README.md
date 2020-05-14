@@ -56,7 +56,7 @@ PsychToolbox is a package for creating and running behavioral tasks.
 
 ![Language](https://img.shields.io/badge/Language-javascript-yellow.svg)
 
-jspsych is a package for creating and running behavioral tasks.
+jspsych is a package for creating behavioral tasks, and running them in web browsers. 
 
 [HomePage](https://www.jspsych.org/) -
 [Github](https://github.com/jspsych/jsPsych/) -
@@ -67,9 +67,21 @@ jspsych is a package for creating and running behavioral tasks.
 ![Language](https://img.shields.io/badge/Language-javascript-yellow.svg)
 ![Language](https://img.shields.io/badge/GUI-yes-lightgrey.svg)
 
+lab.js is an online study builder, for building tasks for web browsers. 
+
 [HomePage](https://lab.js.org/) -
 [Github](https://github.com/felixhenninger/lab.js) -
 [Paper](https://doi.org/10.31234/osf.io/fqr49)
+
+### Stimuli App
+
+![Language](https://img.shields.io/badge/Language-swift-green.svg)
+![Language](https://img.shields.io/badge/GUI-yes-lightgrey.svg)
+
+StimuliApp is an app / platform for creating psychophysics tasks for iOS and iPadOS devices (phones and tablets).
+
+[HomePage](https://www.stimuliapp.com/) -
+[Github](https://github.com/marinraf/StimuliApp) -
 
 ## Task Implementations
 
