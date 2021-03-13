@@ -1,6 +1,8 @@
 # OpenTasks
 
-A collection of openly available software platforms for creating behavioral tasks, as well as resources and available task implementations.
+A collection of openly available software platforms for creating behavioral tasks. 
+
+Also included are collections of available task implementations.
 
 ## Table of Contents
 
@@ -9,7 +11,7 @@ A collection of openly available software platforms for creating behavioral task
 
 ## Software Platforms
 
-The following are open-source or free-to-use software platforms that allow for creating tasks.
+The following are open-source or free-to-use software platforms for creating tasks.
 
 ### Psychopy
 
@@ -52,11 +54,11 @@ PsychToolbox is a package for creating and running behavioral tasks.
 [Github](https://github.com/Psychtoolbox-3/Psychtoolbox-3) -
 [Paper](https://doi.org/10.1163/156856897X00357)
 
-### jspsych
+### jsPsych
 
 ![Language](https://img.shields.io/badge/Language-javascript-yellow.svg)
 
-jspsych is a package for creating behavioral tasks, and running them in web browsers. 
+jsPsych is a package for creating behavioral tasks, and running them in web browsers. 
 
 [HomePage](https://www.jspsych.org/) -
 [Github](https://github.com/jspsych/jsPsych/) -
@@ -81,11 +83,11 @@ lab.js is an online study builder, for building tasks for web browsers.
 StimuliApp is an app / platform for creating psychophysics tasks for iOS and iPadOS devices (phones and tablets).
 
 [HomePage](https://www.stimuliapp.com/) -
-[Github](https://github.com/marinraf/StimuliApp) -
+[Github](https://github.com/marinraf/StimuliApp)
 
 ## Task Implementations
 
-The following is a collection of resources with available tasks implementations.
+The following are collection of or individual tasks implementations.
 
 ### Pavlovia
 
@@ -94,7 +96,7 @@ Pavlovia is a forum for researchers to share and run experiments.
 [Homepage](https://pavlovia.org/) -
 [List of Experiments](https://pavlovia.org/explore)
 
-### Miscellaneous
+### Miscellaneous Tasks Implementations
 
 - A [memory span task](https://github.com/tmalsburg/py-span-task), implemented in Python
 - A [stop-signal task](https://github.com/bramzandbelt/StPy), implemented in Python
