@@ -44,6 +44,16 @@ OpenSesame is a package for creating and running behavioral tasks.
 [Github](https://github.com/smathot/OpenSesame) -
 [Paper](https://doi.org/10.3758/s13428-011-0168-7)
 
+### PyControl
+
+![Language](https://img.shields.io/badge/Language-Python-blue.svg)
+
+PyControl is a system of software and hardware for controlling behavioral experiments based on the MicroPython microcontroller.
+
+[HomePage](https://pycontrol.readthedocs.io/) -
+[Github](https://github.com/pyControl) -
+[Paper](https://elifesciences.org/articles/67846)
+
 ### PsychToolbox
 
 ![Language](https://img.shields.io/badge/Language-Matlab-orange.svg)
